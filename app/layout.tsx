@@ -1,12 +1,12 @@
-import './globals.css'
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import "./globals.css"
+import type { Metadata } from "next"
+import { Inter } from "next/font/google"
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'Anti Paywall',
-  description: 'Easily mitigate headaches by bypassing paywalls',
+  title: "Anti Paywall",
+  description: "Easily mitigate headaches by bypassing paywalls",
 }
 
 export default function RootLayout({
