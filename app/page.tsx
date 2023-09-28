@@ -37,7 +37,7 @@ export default function Home() {
         <div>
           <h2 className="underline text-blue-300 text-lg">How to use</h2>
           <p>
-            Simply paste the url of the article you want to read, and we'll do the rest.
+            Simply paste the url of the article you want to read, and we&apos;ll do the rest.
           </p>
         </div>
 
