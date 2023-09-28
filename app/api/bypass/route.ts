@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server"
+import { NextResponse } from "next/server";
 
 // https://explore.whatismybrowser.com/useragents/explore/software_name/googlebot/
 const HEADERS: HeadersInit = {

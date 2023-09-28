@@ -1,3 +1,5 @@
+"use client";
+
 class Api {
   baseUrl: string | undefined;
   constructor() {
