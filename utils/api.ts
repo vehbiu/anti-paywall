@@ -1,5 +1,3 @@
-// singleton class to interact with nextjs api using fetch
-
 class Api {
   baseUrl: string | undefined;
   constructor() {
